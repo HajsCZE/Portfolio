@@ -1,0 +1,19 @@
+.main1{
+    color: #001b56;
+    margin-top: 10%;
+    position: relative;
+    font-size: 40px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.main2{
+    position: relative;
+    textalign: center;
+    marginTop:-1%;
+    color : #808080;
+    fontSize: 15px;
+    marginLeft: 20%;
+    marginRight: 10%;
+    fontWeight: 100%;
+}
